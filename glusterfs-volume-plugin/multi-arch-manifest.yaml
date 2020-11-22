@@ -1,0 +1,6 @@
+image: gtrannoy/glusterfs-volume-plugin:latest
+manifests:
+  - image: gtrannoy/glusterfs-volume-plugin
+    platform:
+      architecture: arm
+      os: linux
